@@ -1,16 +1,22 @@
-## Hi there 👋
+# ¡Hola! Soy Cristofer 👋
 
-<!--
-**Criss955425/Criss955425** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Analista Programador y Técnico de Computadoras con una sólida trayectoria en el mundo tecnológico. Me apasiona crear soluciones que optimicen los procesos de las empresas, desde el análisis y diseño de bases de datos hasta el desarrollo de software a medida.
 
-Here are some ideas to get you started:
+### 💻 Sobre mí:
+- 🚀 Tengo experiencia desarrollando sistemas productivos completos, como Puntos de Venta (POS) y control de inventarios.
+- ⚙️ Conozco el ciclo de vida del software: desde el soporte técnico e implementación, hasta la programación de módulos y automatización.
+- 🌱 Actualmente sigo perfeccionando mis habilidades en desarrollo web (Frontend y Backend) y explorando herramientas de automatización.
+- 📍 Desde Callao, Perú.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Mi Stack Tecnológico:
+* **Lenguajes:** PHP, JavaScript, Python, C#, TypeScipt y 
+* **Frameworks y Librerías:** React, Vue.js
+* **Bases de Datos:** SQL Server, MySQL y MongoDB
+* **Herramientas & Metodologías:** Git/GitHub, n8n, Metodologías Ágiles (Scrum)
+
+### 📫 Cómo contactarme:
+- **Email:** cristofercmlv56789@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/cristofer-limaymanta/
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=criss955425&theme=dark&hide_border=true&locale=es&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
