@@ -9,9 +9,17 @@ Soy Analista Programador y Técnico de Computadoras con una sólida trayectoria 
 - 📍 Desde Callao, Perú.
 
 ### 🛠️ Mi Stack Tecnológico:
-* **Lenguajes:** PHP, JavaScript, Python, C#, TypeScipt y Java.
-* **Frameworks y Librerías:** Laravel, React, Vue.js.
-* **Bases de Datos:** SQL Server, MySQL y MongoDB.
+* **Lenguajes:** ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+* **Frameworks y Librerías:** ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+* **Bases de Datos:** ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 * **Herramientas & Metodologías:** Git/GitHub, n8n, Metodologías Ágiles (Scrum)
 
 ### 📫 Cómo contactarme:
