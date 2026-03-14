@@ -3,10 +3,10 @@
 Soy Analista Programador y Técnico de Computadoras con una sólida trayectoria en el mundo tecnológico. Me apasiona crear soluciones que optimicen los procesos de las empresas, desde el análisis y diseño de bases de datos hasta el desarrollo de software a medida.
 
 ### 💻 Sobre mí:
-- 🚀 Tengo experiencia desarrollando sistemas productivos completos, como Puntos de Venta (POS) y control de inventarios.
-- ⚙️ Conozco el ciclo de vida del software: desde el soporte técnico e implementación, hasta la programación de módulos y automatización.
-- 🌱 Actualmente sigo perfeccionando mis habilidades en desarrollo web (Frontend y Backend) y explorando herramientas de automatización.
-- 📍 Desde Callao, Perú.
+-Desarrollo de Sistemas Productivos: Experiencia implementando sistemas de Puntos de Venta (POS) y control de inventarios, enfocados en la precisión de datos y facilidad de uso.
+-Soporte e Implementación: Conocimiento sólido del ciclo de vida del software, desde el soporte técnico inicial hasta la programación de módulos específicos.
+-Entusiasta de la Automatización: Actualmente explorando y dominando herramientas como n8n para optimizar flujos de trabajo y conectar servicios mediante APIs.
+-Resolución de Problemas: Mi formación técnica me permite entender el hardware y el software como un todo, ofreciendo soluciones integrales.
 
 ### 🛠️ Mi Stack Tecnológico:
 * **Lenguajes:** ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
