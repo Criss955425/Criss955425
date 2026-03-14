@@ -20,7 +20,10 @@ Soy Analista Programador y Técnico de Computadoras con una sólida trayectoria 
 * **Bases de Datos:** ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-* **Herramientas & Metodologías:** Git/GitHub, n8n, Metodologías Ágiles (Scrum)
+* **Herramientas:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6C37?style=flat-square&logo=n8n&logoColor=white)
+* **Metodologías:** Metodologías Ágiles (Scrum)
 
 ### 📫 Cómo contactarme:
 - **Email:** cristofercmlv56789@gmail.com
