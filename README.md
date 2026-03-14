@@ -9,9 +9,9 @@ Soy Analista Programador y Técnico de Computadoras con una sólida trayectoria 
 - 📍 Desde Callao, Perú.
 
 ### 🛠️ Mi Stack Tecnológico:
-* **Lenguajes:** PHP, JavaScript, Python, C#, TypeScipt y 
-* **Frameworks y Librerías:** React, Vue.js
-* **Bases de Datos:** SQL Server, MySQL y MongoDB
+* **Lenguajes:** PHP, JavaScript, Python, C#, TypeScipt y Java.
+* **Frameworks y Librerías:** Laravel, React, Vue.js.
+* **Bases de Datos:** SQL Server, MySQL y MongoDB.
 * **Herramientas & Metodologías:** Git/GitHub, n8n, Metodologías Ágiles (Scrum)
 
 ### 📫 Cómo contactarme:
